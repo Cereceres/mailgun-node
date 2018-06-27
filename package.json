@@ -1,0 +1,27 @@
+{
+  "name": "mailgun-node",
+  "version": "0.0.1",
+  "description": "mailgun API client",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/mailgun-node.git"
+  },
+  "keywords": [
+    "mailgun",
+    "api",
+    "client"
+  ],
+  "author": "Jesus Cereceres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cereceres/mailgun-node/issues"
+  },
+  "homepage": "https://github.com/Cereceres/mailgun-node#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
